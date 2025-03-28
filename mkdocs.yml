@@ -1,7 +1,9 @@
-site_name: Marzania
+site_name: "Marzania"
 theme:
   name: material
-
+plugins:
+  - search
+  - obsidian
 nav:
   - Home: index.md
   - Kapitel 1: datei1.md
