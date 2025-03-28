@@ -2,3 +2,4 @@ Die Korta ist die vorherschende religiöße Institution auf [[Krell]] ([[Moolkov
 Die Korta ist eine sehr flach hierarchisch organisierte Institution, welche Sie in der heutigen Zeit auch dazu befähigt, effizient und nicht Machtübergreifend an der Monarchie [[Krell|Krells]] teilhaben zu lassen.
 Die Korta ist in mehreren Ländern vertreten wobei sie zwar Grenzenübergreifende Verbindungen haben, jedoch gibt es in jedem Land eine seperate Führung.
 Einen Hauptsitzt, oder ein Hauptoberhaupt gibt es somit nicht.
+

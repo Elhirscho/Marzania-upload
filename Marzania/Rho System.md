@@ -1,1 +1,0 @@
-Das Rho System ist ein Sternensystem, das lediglich einen bewohnbaren Planeten besitzt: [[Marzania]]. In dem Sternensystem befinden sich 5 Weitere Planeten, zwei davon sind Gasplaneten. [[Marzania]] ist der am weitesten entfernte Planet des Sterns [[Gargantum]].

@@ -9,3 +9,5 @@ nav:
   - Kapitel 1: datei1.md
   - Unterordner:
       - Datei 2: unterordner/datei2.md
+use_directory_urls: false
+ 

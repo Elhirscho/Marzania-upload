@@ -1,1 +1,0 @@
-Der Wiederstand von Farnza ist aus dem Willen heraus entstanden eine sichere und stabile Regierung für die Bevölkerung von Farnza zu bilden
