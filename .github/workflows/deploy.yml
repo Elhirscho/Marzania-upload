@@ -24,6 +24,5 @@ jobs:
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
         
-        permissions:
-  contents: write
+        
         
