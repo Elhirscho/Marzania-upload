@@ -1,3 +1,11 @@
 site_name: Marzania
 theme:
   name: material
+site_name: "Meine Dokumentation"
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Kapitel 1: datei1.md
+  - Unterordner:
+      - Datei 2: unterordner/datei2.md
